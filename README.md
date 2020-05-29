@@ -1,2 +1,2 @@
-# Kalkulator-C-041
+# Kalkulator-|-041
 Kalkulator Visual Studio C#
