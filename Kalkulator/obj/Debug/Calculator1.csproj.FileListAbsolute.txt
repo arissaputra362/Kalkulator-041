@@ -1,0 +1,54 @@
+C:\Users\Aris\source\repos\Calculator1\bin\Debug\Calculator1.exe.config
+C:\Users\Aris\source\repos\Calculator1\bin\Debug\Calculator1.exe
+C:\Users\Aris\source\repos\Calculator1\bin\Debug\Calculator1.pdb
+C:\Users\Aris\source\repos\Calculator1\obj\Debug\Calculator1.csprojAssemblyReference.cache
+C:\Users\Aris\source\repos\Calculator1\obj\Debug\Calculator1.Form1.resources
+C:\Users\Aris\source\repos\Calculator1\obj\Debug\Calculator1.Properties.Resources.resources
+C:\Users\Aris\source\repos\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.cache
+C:\Users\Aris\source\repos\Calculator1\obj\Debug\Calculator1.exe
+C:\Users\Aris\source\repos\Calculator1\obj\Debug\Calculator1.pdb
+C:\Users\Aris\source\repos\Calculatorv2\bin\Debug\Calculator1.exe.config
+C:\Users\Aris\source\repos\Calculatorv2\bin\Debug\Calculator1.exe
+C:\Users\Aris\source\repos\Calculatorv2\bin\Debug\Calculator1.pdb
+C:\Users\Aris\source\repos\Calculatorv2\obj\Debug\Calculator1.csprojAssemblyReference.cache
+C:\Users\Aris\source\repos\Calculatorv2\obj\Debug\Calculator1.Form1.resources
+C:\Users\Aris\source\repos\Calculatorv2\obj\Debug\Calculator1.Properties.Resources.resources
+C:\Users\Aris\source\repos\Calculatorv2\obj\Debug\Calculator1.csproj.GenerateResource.cache
+C:\Users\Aris\source\repos\Calculatorv2\obj\Debug\Calculator1.exe
+C:\Users\Aris\source\repos\Calculatorv2\obj\Debug\Calculator1.pdb
+D:\kuliah\pemvis\Calculatorv2\bin\Debug\Calculator1.exe.config
+D:\kuliah\pemvis\Calculatorv2\bin\Debug\Calculator1.exe
+D:\kuliah\pemvis\Calculatorv2\bin\Debug\Calculator1.pdb
+D:\kuliah\pemvis\Calculatorv2\obj\Debug\Calculator1.csprojAssemblyReference.cache
+D:\kuliah\pemvis\Calculatorv2\obj\Debug\Calculator1.Form1.resources
+D:\kuliah\pemvis\Calculatorv2\obj\Debug\Calculator1.Properties.Resources.resources
+D:\kuliah\pemvis\Calculatorv2\obj\Debug\Calculator1.csproj.GenerateResource.cache
+D:\kuliah\pemvis\Calculatorv2\obj\Debug\Calculator1.exe
+D:\kuliah\pemvis\Calculatorv2\obj\Debug\Calculator1.pdb
+D:\kuliah\PEMVIS_KALKULATOR\18051204041 - Mohammad Aris Saputra\bin\Debug\Calculator1.exe.config
+D:\kuliah\PEMVIS_KALKULATOR\18051204041 - Mohammad Aris Saputra\bin\Debug\Calculator1.exe
+D:\kuliah\PEMVIS_KALKULATOR\18051204041 - Mohammad Aris Saputra\bin\Debug\Calculator1.pdb
+D:\kuliah\PEMVIS_KALKULATOR\18051204041 - Mohammad Aris Saputra\obj\Debug\Calculator1.csprojAssemblyReference.cache
+D:\kuliah\PEMVIS_KALKULATOR\18051204041 - Mohammad Aris Saputra\obj\Debug\Calculator1.Form1.resources
+D:\kuliah\PEMVIS_KALKULATOR\18051204041 - Mohammad Aris Saputra\obj\Debug\Calculator1.Properties.Resources.resources
+D:\kuliah\PEMVIS_KALKULATOR\18051204041 - Mohammad Aris Saputra\obj\Debug\Calculator1.csproj.GenerateResource.cache
+D:\kuliah\PEMVIS_KALKULATOR\18051204041 - Mohammad Aris Saputra\obj\Debug\Calculator1.exe
+D:\kuliah\PEMVIS_KALKULATOR\18051204041 - Mohammad Aris Saputra\obj\Debug\Calculator1.pdb
+D:\kuliah\upload to Github\18051204041 - Mohammad Aris Saputra\bin\Debug\Calculator1.exe.config
+D:\kuliah\upload to Github\18051204041 - Mohammad Aris Saputra\bin\Debug\Calculator1.exe
+D:\kuliah\upload to Github\18051204041 - Mohammad Aris Saputra\bin\Debug\Calculator1.pdb
+D:\kuliah\upload to Github\18051204041 - Mohammad Aris Saputra\obj\Debug\Calculator1.csprojAssemblyReference.cache
+D:\kuliah\upload to Github\18051204041 - Mohammad Aris Saputra\obj\Debug\Calculator1.Form1.resources
+D:\kuliah\upload to Github\18051204041 - Mohammad Aris Saputra\obj\Debug\Calculator1.Properties.Resources.resources
+D:\kuliah\upload to Github\18051204041 - Mohammad Aris Saputra\obj\Debug\Calculator1.csproj.GenerateResource.cache
+D:\kuliah\upload to Github\18051204041 - Mohammad Aris Saputra\obj\Debug\Calculator1.exe
+D:\kuliah\upload to Github\18051204041 - Mohammad Aris Saputra\obj\Debug\Calculator1.pdb
+D:\kuliah\upload to Github\Kalkulator\bin\Debug\Calculator1.exe.config
+D:\kuliah\upload to Github\Kalkulator\bin\Debug\Calculator1.exe
+D:\kuliah\upload to Github\Kalkulator\bin\Debug\Calculator1.pdb
+D:\kuliah\upload to Github\Kalkulator\obj\Debug\Calculator1.csprojAssemblyReference.cache
+D:\kuliah\upload to Github\Kalkulator\obj\Debug\Calculator1.Form1.resources
+D:\kuliah\upload to Github\Kalkulator\obj\Debug\Calculator1.Properties.Resources.resources
+D:\kuliah\upload to Github\Kalkulator\obj\Debug\Calculator1.csproj.GenerateResource.cache
+D:\kuliah\upload to Github\Kalkulator\obj\Debug\Calculator1.exe
+D:\kuliah\upload to Github\Kalkulator\obj\Debug\Calculator1.pdb
